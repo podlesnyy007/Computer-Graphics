@@ -400,6 +400,7 @@ namespace Podlesnyy {
 			break;
 		case Keys::N:
 			changeDrawings = !changeDrawings;
+			break;
 		default:
 			break;
 		}
